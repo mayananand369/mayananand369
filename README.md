@@ -58,10 +58,10 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-<a href="https://git.io/streak-stats"><img height=200 align="center" width=500 src="https://streak-stats.demolab.com?user=mayananand369&theme=react&rank_icon=github&border_radius=10&card_width=515" alt="GitHub Streak" /></a>
-    <img height=200 width=455 align="center" src="https://github-readme-stats-mayananand369.vercel.app/api?username=mayananand369&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+<a href="https://git.io/streak-stats"><img height=200 align="center" width=400 src="https://streak-stats.demolab.com?user=mayananand369&theme=react&rank_icon=github&border_radius=10&card_width=515" alt="GitHub Streak" /></a>
+    <img height=200 width=355 align="center" src="https://github-readme-stats-mayananand369.vercel.app/api?username=mayananand369&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/><br/>
-  <img height=200 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=mayananand369&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img height=175 width=300 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=mayananand369&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/><br/>
