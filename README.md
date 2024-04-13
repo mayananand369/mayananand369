@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/mayananand369](https://github.com/mayananand369)
 
-- 💬 Ask me about **Java,OOPs,Android**
+- 💬 Ask me about **Java,OOPs,Android,SpringBoot,MySQL**
 
 - 📫 How to reach me **mayananand2@gmail.com**
 
